@@ -1,12 +1,13 @@
 READ ME FIRST
 
-Original author: xxx@gmail.com
+Original author: bkk@gmail.com
 
 ---
 
 This is the common language of g0d.  
 
 1. Easy to learn (especially for zero-beginner): A well-designed language should be easy to learn.
+  - test
   
 2. Simple: Unambiguous pronunciation.
   
